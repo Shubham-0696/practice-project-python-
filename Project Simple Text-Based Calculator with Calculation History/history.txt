@@ -1,0 +1,4 @@
+This is the history of your calculation.
+8*7=56
+4+95=99
+98/74=1.3243243243243243
