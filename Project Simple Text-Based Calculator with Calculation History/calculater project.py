@@ -49,7 +49,7 @@ def view_history():
             else:
                 for line in history:
                     line = line.strip()
-                    print(line.splitlines())
+                    print(line)
     except FileNotFoundError:
         print(" There is no file history.txt")
 '''
